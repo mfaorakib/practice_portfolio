@@ -1,0 +1,60 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 50%;
+    margin: 0;
+}
+
+.highlight-name{
+ color: blueviolet;
+}
+.introduction{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+.half-width{
+    padding-left: 5%;
+    margin: 2%;
+    float: left;
+    width: 40%;
+    height: 300px;  
+    text-align: justify;
+}
+.half-width img{
+    width:100%;
+}
+.link-button{
+    background-image:linear-gradient(  60deg, tomato,orange);
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.dream{
+    background-image: url("images/dream-bg.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 150px;
+}
+section{
+height: 400px;
+padding: 40px 50px;
+}
+
+.experience{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+.new-experience{
+    box-shadow: 10px 10px 40px darkgrey;
+    text-align: justify;
+    border-radius: 5px;
+}
+.new-experience p{
+    padding-right:20px ;
+}
+.last{
+    text-align: center;
+
+}
